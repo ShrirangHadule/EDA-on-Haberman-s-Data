@@ -12,3 +12,8 @@ Survival status (class attribute) 1 = the patient survived 5 years or longer 2 =
 
 Objective
 Whether patient survived 5 years or longer OR patient died within 5 years who had undergone surgery for breast cancer.
+
+Conclusion summary
+Habermans data is imbalanced dataset with 306 rows and 4 columns
+The patients who survived > 5 years are (73%)
+patients who died within 5 years (27%)
